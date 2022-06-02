@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Kali-78
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Kali-78/Kali-78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your change
+Hey
+I am sajjad from rajsthan
+Apt update
+Apt upgrade
